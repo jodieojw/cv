@@ -1,0 +1,285 @@
+body{
+  color: #40515E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size:90px;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-weight: normal;
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding: 10px;
+}
+
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+a{
+  color:#11999E;
+  font-family: "Montserrat";
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+
+}
+
+.top-container{
+  background-image: url("/images/map.png");
+  background-color: powderblue;
+  position: relative;
+  padding:1% 4%;
+}
+
+.middle_container{
+  padding-top:0px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.worldwide{
+  width:30%;
+}
+.top-cloud{
+  position: absolute;
+  right:370px;
+  top: 300px;
+  width:10%;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:50px;
+  left:200px;
+  width:10%;
+}
+.skill-row{
+  width:30%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+  word-wrap:break-word;
+}
+
+p{
+  overflow:hidden;
+}
+
+.interests-row{
+  width :30%;
+  text-align:left;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+
+}
+
+.skill{
+  line-height: 30px;
+
+}
+.myimage{
+  padding-top: 50px;
+  width: 20%;
+
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.contact-me{
+  width:30%
+  margin: 100px auto 100px auto;
+
+}
+
+.myButton {
+	box-shadow:inset 0px 39px 0px -24px #e67a73;
+	background-color:#e4685d;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Montserrat";
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+  position: relative;
+  top: -43px;
+
+}
+/* .myButton:hover {
+	background-color:#eb675e;
+  margin-top: 50px;
+
+} */
+/* .myButton:active {
+	position:relative;
+  margin-top: 100px;
+	top:50px;
+} */
+.copyrightm{
+  color:#EAF6F6;
+  font-size:0.75rem;
+  padding: 20px 0;
+}
+.report{
+  width:15%;
+  float: left;
+  margin-right: 30px;
+  display: block;
+}
+.clearfix{
+  overflow:auto;
+}
+
+.domain{
+  width: 15%;
+  float: left;
+  margin-right:30px;
+}
+.roller{
+  width: 20%;
+  float: left;
+  margin-right:30px;
+
+}
+.netf{
+  width: 20%;
+  float: left;
+  margin-right:30px;
+}
+.cards{
+  width: 20%;
+  float: left;
+  margin-right:30px;
+}
+
+.top-countries{
+  background-color: powderblue;
+  text-align: center;
+  padding-bottom: 0.5px;
+}
+.countriesword{
+  font-family: "Sacramento";
+  font-weight: bold;
+  color:#fff;
+
+}
+#countries{
+  position:relative;
+  background-color:powderblue;
+  padding: 1% 1%;
+  padding-bottom: 10%;
+  width:100%;
+  height:10%;
+  line-height:2;
+  text-align:center;
+
+}
+
+.p{
+
+}
+
+.words-cell{
+  text-align: center;
+  padding-left:15%;
+
+}
+.#countries-carousel{
+  margin-top: 0%;
+}
+.carousel-item {
+height: 300px;
+overflow: hidden;
+width: 100%;
+}
+
+
+
+.korea-image{
+  width:40%;
+}
+
+.berlin-image{
+  width:40%;
+}
+
+.stockholm-image{
+  width:40%;
+}
+
+.copenhagen-image{
+  width:40%;
+}
+
+
+.paris-image{
+  width:40%;
+}
+
+.taiwan-image{
+  width:40%;
+}
+.amsterdam-image{
+  width:40%;
+}
+
+
+.rome-image{
+  width:40%;
+}
+
+.switzerland-image{
+  width:40%;
+}
+
+.spain-image{
+  width:40%;
+}
+
+
+.poland-image{
+  width:40%;
+}
+
+.venice-image{
+  width:40%;
+}
+
+.slovenia-image{
+  width:40%;
+}
+.vatican-image{
+  width:40%;
+}
+
+.austria-image{
+  width:40%;
+}
+.prague-image{
+  width:40%;
+}
